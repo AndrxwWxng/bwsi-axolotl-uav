@@ -1,0 +1,27 @@
+running egg_info
+creating ../../build/fizzbuzz/fizzbuzz.egg-info
+writing ../../build/fizzbuzz/fizzbuzz.egg-info/PKG-INFO
+writing dependency_links to ../../build/fizzbuzz/fizzbuzz.egg-info/dependency_links.txt
+writing requirements to ../../build/fizzbuzz/fizzbuzz.egg-info/requires.txt
+writing top-level names to ../../build/fizzbuzz/fizzbuzz.egg-info/top_level.txt
+writing manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+reading manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+writing manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jerry-li/ros2_ws/build/fizzbuzz/build
+creating /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib
+creating /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz
+copying fizzbuzz/__init__.py -> /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz
+running install
+running install_lib
+creating /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz
+copying /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz/__init__.py -> /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz
+byte-compiling /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/fizzbuzz -> /home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/packages
+copying package.xml -> /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz
+running install_egg_info
+Copying ../../build/fizzbuzz/fizzbuzz.egg-info to /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/jerry-li/ros2_ws/build/fizzbuzz/install.log'

@@ -1,0 +1,15 @@
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/package_run_dependencies/fizzbuzz
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/parent_prefix_path/fizzbuzz
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/ament_prefix_path.sh
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/ament_prefix_path.dsv
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/path.sh
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/path.dsv
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.bash
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.sh
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.zsh
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.dsv
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/package.dsv
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/packages/fizzbuzz
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/cmake/fizzbuzzConfig.cmake
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/cmake/fizzbuzzConfig-version.cmake
+/home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/package.xml

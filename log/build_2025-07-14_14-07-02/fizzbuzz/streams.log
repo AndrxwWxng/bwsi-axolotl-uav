@@ -1,0 +1,20 @@
+[0.103s] Invoking command in '/home/jerry-li/ros2_ws/build/fizzbuzz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jerry-li/ros2_ws/build/fizzbuzz -- -j8 -l8
+[0.541s] Invoked command in '/home/jerry-li/ros2_ws/build/fizzbuzz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jerry-li/ros2_ws/build/fizzbuzz -- -j8 -l8
+[0.639s] Invoking command in '/home/jerry-li/ros2_ws/build/fizzbuzz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jerry-li/ros2_ws/build/fizzbuzz
+[0.666s] -- Install configuration: ""
+[0.667s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/package_run_dependencies/fizzbuzz
+[0.668s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/parent_prefix_path/fizzbuzz
+[0.669s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/ament_prefix_path.sh
+[0.669s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/ament_prefix_path.dsv
+[0.670s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/path.sh
+[0.671s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/environment/path.dsv
+[0.671s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.bash
+[0.671s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.sh
+[0.672s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.zsh
+[0.672s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/local_setup.dsv
+[0.673s] -- Installing: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/package.dsv
+[0.673s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/packages/fizzbuzz
+[0.673s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/cmake/fizzbuzzConfig.cmake
+[0.674s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/cmake/fizzbuzzConfig-version.cmake
+[0.674s] -- Up-to-date: /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz/package.xml
+[0.677s] Invoked command in '/home/jerry-li/ros2_ws/build/fizzbuzz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jerry-li/ros2_ws/build/fizzbuzz

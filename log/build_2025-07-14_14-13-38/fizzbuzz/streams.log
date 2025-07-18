@@ -1,0 +1,29 @@
+[1.850s] Invoking command in '/home/jerry-li/ros2_ws/src/fizzbuzz': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jerry-li/ros2_ws/build/fizzbuzz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fizzbuzz build --build-base /home/jerry-li/ros2_ws/build/fizzbuzz/build install --record /home/jerry-li/ros2_ws/build/fizzbuzz/install.log --single-version-externally-managed install_data
+[2.325s] running egg_info
+[2.326s] creating ../../build/fizzbuzz/fizzbuzz.egg-info
+[2.357s] writing ../../build/fizzbuzz/fizzbuzz.egg-info/PKG-INFO
+[2.358s] writing dependency_links to ../../build/fizzbuzz/fizzbuzz.egg-info/dependency_links.txt
+[2.358s] writing requirements to ../../build/fizzbuzz/fizzbuzz.egg-info/requires.txt
+[2.358s] writing top-level names to ../../build/fizzbuzz/fizzbuzz.egg-info/top_level.txt
+[2.358s] writing manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+[2.423s] reading manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+[2.424s] writing manifest file '../../build/fizzbuzz/fizzbuzz.egg-info/SOURCES.txt'
+[2.424s] running build
+[2.425s] running build_py
+[2.425s] creating /home/jerry-li/ros2_ws/build/fizzbuzz/build
+[2.425s] creating /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib
+[2.425s] creating /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz
+[2.425s] copying fizzbuzz/__init__.py -> /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz
+[2.425s] running install
+[2.435s] running install_lib
+[2.468s] creating /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz
+[2.468s] copying /home/jerry-li/ros2_ws/build/fizzbuzz/build/lib/fizzbuzz/__init__.py -> /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz
+[2.469s] byte-compiling /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz/__init__.py to __init__.cpython-312.pyc
+[2.469s] running install_data
+[2.469s] copying resource/fizzbuzz -> /home/jerry-li/ros2_ws/install/fizzbuzz/share/ament_index/resource_index/packages
+[2.469s] copying package.xml -> /home/jerry-li/ros2_ws/install/fizzbuzz/share/fizzbuzz
+[2.470s] running install_egg_info
+[2.506s] Copying ../../build/fizzbuzz/fizzbuzz.egg-info to /home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages/fizzbuzz-0.0.0-py3.12.egg-info
+[2.507s] running install_scripts
+[2.735s] writing list of installed files to '/home/jerry-li/ros2_ws/build/fizzbuzz/install.log'
+[2.793s] Invoked command in '/home/jerry-li/ros2_ws/src/fizzbuzz' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jerry-li/ros2_ws/build/fizzbuzz/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jerry-li/ros2_ws/install/fizzbuzz/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fizzbuzz build --build-base /home/jerry-li/ros2_ws/build/fizzbuzz/build install --record /home/jerry-li/ros2_ws/build/fizzbuzz/install.log --single-version-externally-managed install_data

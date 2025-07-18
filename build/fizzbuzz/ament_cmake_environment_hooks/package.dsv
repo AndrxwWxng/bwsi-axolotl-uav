@@ -1,0 +1,4 @@
+source;share/fizzbuzz/local_setup.bash
+source;share/fizzbuzz/local_setup.dsv
+source;share/fizzbuzz/local_setup.sh
+source;share/fizzbuzz/local_setup.zsh
